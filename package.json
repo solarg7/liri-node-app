@@ -2,19 +2,20 @@
   "name": "liri-node-app",
   "version": "1.0.0",
   "description": "exercise",
-  "main": "liri.js",
+  "main": "app.js",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "\"echo\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/solarg7/liri-node-app.git"
   },
-  "author": "",
+  "author": "mdelsolar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/solarg7/liri-node-app/issues"
